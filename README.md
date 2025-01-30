@@ -1,7 +1,7 @@
 # Clinic-Web-Application
 A fullStack clinic web application designed to streamline patient management and enhance healthcare accessibility. The application provides a user-friendly platform for healthcare professionals and patients, simplifying the processes of patient registration and medical history tracking.
 
-Live link:clinic-application.netlify.app
+Live link: ![Lint Alt](clinic-application.netlify.app)
 
 # Features 
 i) Patient Data Interface
