@@ -1,5 +1,5 @@
 # Clinic-Web-Application
-A fullStack Clinic Web Application made for CRUD application. Enables digitized patient data storage and management.
+A fullStack clinic web application designed to streamline patient management and enhance healthcare accessibility. The application provides a user-friendly platform for healthcare professionals and patients, simplifying the processes of patient registration and medical history tracking.
 
 # Features 
 i) Patient Data Interface
@@ -22,4 +22,25 @@ vi) Edit Form
 
 vii) Export to CSV
 ![Image Alt](https://github.com/Maheshreddy31/Clinic-Web-Application/blob/c4d5ca19d977f3415b9ce8e3c83bdb723d7d486b/Clinic%20images/Export%20to%20CSV.png)
+
+# Technologies Used
+  # Frontend:
+    React.js for a dynamic user interface.
+
+    CSS for styling.
+
+  # Backend:
+    Node.js and Express for server-side functionality.
+    
+    RESTful API design for efficient data handling.
+    
+  # Database:
+    MongoDB for flexible data storage and management.
+
+# Usage:
+  Register a new patient using the registration form.
+  
+  Search for patients or doctors using the search functionality.
+  
+  View and update patient medical histories.
 
