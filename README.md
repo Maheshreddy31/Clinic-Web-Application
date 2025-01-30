@@ -24,13 +24,13 @@ vii) Export to CSV
 ![Image Alt](https://github.com/Maheshreddy31/Clinic-Web-Application/blob/c4d5ca19d977f3415b9ce8e3c83bdb723d7d486b/Clinic%20images/Export%20to%20CSV.png)
 
 # Technologies Used
-  # Frontend:
-    React.js for a dynamic user interface.
+  ## Frontend:
+    Javascript for a dynamic user interface.
 
     CSS for styling.
 
   # Backend:
-    Node.js and Express for server-side functionality.
+    Python for server-side functionality.
     
     RESTful API design for efficient data handling.
     
